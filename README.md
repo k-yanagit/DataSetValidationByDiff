@@ -43,7 +43,7 @@ Install the required Python packages by running:
 
 - Big Query
 ```bash
-pip install google-cloud-bigquery mysql-connector-python psycopg2-binary
+pip install google-cloud-bigquery
 ```
 
 - MySQL
